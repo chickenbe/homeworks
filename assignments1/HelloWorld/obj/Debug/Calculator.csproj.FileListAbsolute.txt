@@ -1,0 +1,7 @@
+D:\Csharp\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Csharp\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Csharp\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Csharp\HelloWorld\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Csharp\HelloWorld\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Csharp\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Csharp\HelloWorld\obj\Debug\HelloWorld.pdb
