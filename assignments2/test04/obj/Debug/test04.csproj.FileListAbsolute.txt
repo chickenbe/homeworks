@@ -1,0 +1,7 @@
+D:\Csharp\test04\bin\Debug\test04.exe.config
+D:\Csharp\test04\bin\Debug\test04.exe
+D:\Csharp\test04\bin\Debug\test04.pdb
+D:\Csharp\test04\obj\Debug\test04.csproj.AssemblyReference.cache
+D:\Csharp\test04\obj\Debug\test04.csproj.CoreCompileInputs.cache
+D:\Csharp\test04\obj\Debug\test04.exe
+D:\Csharp\test04\obj\Debug\test04.pdb
