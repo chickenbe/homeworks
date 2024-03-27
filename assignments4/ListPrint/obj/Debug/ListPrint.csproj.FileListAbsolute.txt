@@ -1,0 +1,7 @@
+D:\c++project\ListPrint\bin\Debug\ListPrint.exe.config
+D:\c++project\ListPrint\bin\Debug\ListPrint.exe
+D:\c++project\ListPrint\bin\Debug\ListPrint.pdb
+D:\c++project\ListPrint\obj\Debug\ListPrint.csproj.AssemblyReference.cache
+D:\c++project\ListPrint\obj\Debug\ListPrint.csproj.CoreCompileInputs.cache
+D:\c++project\ListPrint\obj\Debug\ListPrint.exe
+D:\c++project\ListPrint\obj\Debug\ListPrint.pdb

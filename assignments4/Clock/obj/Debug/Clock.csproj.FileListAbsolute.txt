@@ -1,0 +1,7 @@
+D:\c++project\Clock\bin\Debug\Clock.exe.config
+D:\c++project\Clock\bin\Debug\Clock.exe
+D:\c++project\Clock\bin\Debug\Clock.pdb
+D:\c++project\Clock\obj\Debug\Clock.csproj.AssemblyReference.cache
+D:\c++project\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+D:\c++project\Clock\obj\Debug\Clock.exe
+D:\c++project\Clock\obj\Debug\Clock.pdb
